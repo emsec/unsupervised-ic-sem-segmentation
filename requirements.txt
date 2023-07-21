@@ -1,0 +1,9 @@
+drawsvg==2.2.0
+imageio==2.28.0
+kornia==0.6.12
+numpy==1.24.4
+opencv-python==4.7.0.72
+Pillow==10.0.0
+pyopencl==2023.1
+shapely==2.0.1
+matplotlib==3.7.2
