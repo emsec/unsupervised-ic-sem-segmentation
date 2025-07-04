@@ -1,4 +1,4 @@
-This repository contains the implementation, trained models, and an excerpt from our labeled IC scanning electron microscope (SEM) image dataset from our [paper](https://doi.org/10.1145/3605769.3624000) _"Towards Unsupervised SEM Image Segmentation for IC Layout Extraction"_. The full dataset is available [here](https://doi.org/10.17617/3.HY5SYN).
+This repository contains the implementation, trained models, and an excerpt from our labeled IC scanning electron microscope (SEM) image dataset from our [paper](https://doi.org/10.1145/3605769.3624000) _"Towards Unsupervised SEM Image Segmentation for IC Layout Extraction"_. The full dataset is available [here](https://doi.org/10.17617/3.HY5SYN) and the implementation of our [extended paper](http://doi.org/10.21203/rs.3.rs-4883147/v1) _"Advancing Training Stability in Unsupervised SEM Image Segmentation for IC Layout Extraction"_ based on this work [here](https://github.com/emsec/unsupervised-ic-sem-segmentation-extended).
 
 The SEM images and labels are licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
